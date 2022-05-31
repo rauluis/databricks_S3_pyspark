@@ -1,0 +1,15 @@
+¿Que es la replicacion en las bases de datos
+
+Cuando aplicar la replicacion
+
+Que es un articulo y que es una publicacion
+
+que esun publicador, distribuidor y suscriptor
+
+que es la replicacion instantanea o snapshot
+
+que es la replicacion transaccional
+
+que es la replicacion punto a punto
+
+que es la replicacion mezcla
